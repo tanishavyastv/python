@@ -37,6 +37,6 @@ elif marks >= 50:
 elif marks >= 40:
     print('Your Grade is B.')
 else:
-    print('Your Grade is D.\nYou are fail!\nSTUPID LOSER!!!')
+    print('Your Grade is D.\nYou have failed!')
 
 print("\nThis program is written by Tanisha. \nERPID: 0221BCA066")
